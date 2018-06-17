@@ -1,2 +1,2 @@
-# shorten url
+# shorten url app
 
